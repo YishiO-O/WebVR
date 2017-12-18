@@ -1,0 +1,33 @@
+{
+    "metadata":{
+        "normal":4,
+        "generator":"io_three",
+        "version":3,
+        "position":4,
+        "type":"BufferGeometry"
+    },
+    "data":{
+        "groups":[{
+            "start":0,
+            "count":6,
+            "materialIndex":0
+        }],
+        "attributes":{
+            "normal":{
+                "array":[0,-8.73353e-08,-1,0,-8.73353e-08,-1,0,-8.73353e-08,-1,0,-8.73353e-08,-1],
+                "itemSize":3,
+                "type":"Float32Array"
+            },
+            "position":{
+                "array":[2.32555,4.0974,-0.348515,-4.49926,-2.7274,-0.348514,-4.49926,4.0974,-0.348515,2.32555,-2.7274,-0.348514],
+                "itemSize":3,
+                "type":"Float32Array"
+            }
+        },
+        "index":{
+            "array":[0,1,2,0,3,1],
+            "itemSize":1,
+            "type":"Uint16Array"
+        }
+    }
+}
