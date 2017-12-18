@@ -1,0 +1,365 @@
+{
+    "accessors": [
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2304,
+            "max": [
+                0.9589046835899353,
+                0.958905041217804,
+                0.9924562573432922
+            ],
+            "min": [
+                -0.9589048624038696,
+                -0.958904504776001,
+                -0.9997883439064026
+            ],
+            "name": "accessor_buffer_Torus_NORMAL_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 3456,
+            "max": [
+                2303
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Torus_0",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2304,
+            "max": [
+                1.3460460901260376,
+                1.346045970916748,
+                0.25079914927482605
+            ],
+            "min": [
+                -1.346045970916748,
+                -1.3460462093353271,
+                -0.25
+            ],
+            "name": "accessor_buffer_Torus_POSITION_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4,
+            "max": [
+                0,
+                0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "name": "accessor_buffer_Plane_NORMAL_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4,
+            "max": [
+                1.0,
+                1.0,
+                0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                0.0
+            ],
+            "name": "accessor_buffer_Plane_POSITION_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 6,
+            "max": [
+                3
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Plane_0",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2304,
+            "max": [
+                0.9871289730072021,
+                0.9804803133010864
+            ],
+            "min": [
+                0.0331551730632782,
+                0.01892697811126709
+            ],
+            "name": "accessor_buffer_Torus_TEXCOORD_0_0",
+            "type": "VEC2"
+        }
+    ],
+    "asset": {
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 48,
+            "byteOffset": 0,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Plane_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 48,
+            "byteOffset": 48,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Plane_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 12,
+            "byteOffset": 96,
+            "name": "bufferView_buffer_Plane_0",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 27648,
+            "byteOffset": 108,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Torus_POSITION_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 27648,
+            "byteOffset": 27756,
+            "byteStride": 12,
+            "name": "bufferView_buffer_Torus_NORMAL_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 18432,
+            "byteOffset": 55404,
+            "byteStride": 8,
+            "name": "bufferView_buffer_Torus_TEXCOORD_0_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6912,
+            "byteOffset": 73836,
+            "name": "bufferView_buffer_Torus_0",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 80748,
+            "name": "buffer_model",
+            "uri": "buffer_model.bin"
+        }
+    ],
+    "images": [
+        {
+            "name": "texture1-01-01.jpg",
+            "uri": "texture1-01-01.jpg"
+        }
+    ],
+    "materials": [
+        {
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "Material.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.64000004529953,
+                    0.64000004529953,
+                    0.64000004529953,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0,
+                    "texCoord": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "Material.002",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0772441029548645,
+                    0.0772441029548645,
+                    0.0772441029548645,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Plane",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 4
+                    },
+                    "indices": 5,
+                    "material": 1,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Torus",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 0,
+                        "POSITION": 2,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 1,
+                    "material": 0,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "Plane",
+            "rotation": [
+                -0.7071068286895752,
+                0.0,
+                0.0,
+                0.7071068286895752
+            ],
+            "scale": [
+                3.4124042987823486,
+                3.4124042987823486,
+                3.4124042987823486
+            ],
+            "translation": [
+                -1.0868512392044067,
+                0.34851473569869995,
+                0.6849996447563171
+            ]
+        },
+        {
+            "mesh": 1,
+            "name": "Torus",
+            "rotation": [
+                -0.7068850994110107,
+                -0.017705658450722694,
+                0.017705658450722694,
+                0.7068850994110107
+            ],
+            "scale": [
+                1.0875508785247803,
+                1.0875508785247803,
+                1.6787222623825073
+            ],
+            "translation": [
+                -1.09574294090271,
+                0.5878806710243225,
+                0.7078107595443726
+            ]
+        },
+        {
+            "children": [
+                0,
+                1
+            ],
+            "matrix": [
+                -1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "name": "Scene_root"
+        }
+    ],
+    "samplers": [
+        {
+            "magFilter": 9729,
+            "minFilter": 9987,
+            "name": "donutTexture",
+            "wrapS": 10497,
+            "wrapT": 10497
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                2
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "name": "donutTexture",
+            "sampler": 0,
+            "source": 0
+        }
+    ]
+}
